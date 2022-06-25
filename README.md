@@ -22,8 +22,7 @@
 
 ## My Github Stats :
 
-![Marina's GitHub stats](https://github-readme-stats.vercel.app/api?username=marinadeoliveira&show_icons=true&theme=bear)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinadeoliveira&layout=compact&theme=bear)](https://github.com/marinadeoliveira/github-readme-stats)
+![Marina's GitHub stats](https://github-readme-stats.vercel.app/api?username=marinadeoliveira&show_icons=true&theme=bear)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinadeoliveira&layout=compact&theme=bear)](https://github.com/marinadeoliveira/github-readme-stats)
 
 ## Let's Get Connected...
 

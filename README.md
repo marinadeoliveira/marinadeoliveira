@@ -1,4 +1,4 @@
-#       Hey, I'm marina Oliveira  👾  Welcome to my Github profile!
+#   <center>    Hey, I'm marina Oliveira  👾  Welcome to my Github profile!</center>
 
 
 - :bug: I recently started my studies in web development and I'm loving it all...

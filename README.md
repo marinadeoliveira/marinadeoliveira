@@ -1,6 +1,6 @@
 #   Hey, I'm marina Oliveira  👾  Welcome to my Github profile!
 
-<img src=https://user-images.githubusercontent.com/105668918/175786484-24057542-90d1-4147-9683-76e2e4e3a5fe.png width="112" height="112" align="right">
+
 
 
 - :bug: I recently started my studies in web development...
